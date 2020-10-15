@@ -1,0 +1,160 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+
+        <title>JamelD.com</title>
+
+        <link href="style.css" rel="stylesheet" type="text/css"> <!-- Stylesheet -->
+        <link href="media-queries.css" rel="stylesheet" type="text/css"> <!-- Stylesheet -->
+        <link href="https://fonts.googleapis.com/css?family=Roboto&display=swap" rel="stylesheet">
+        <link rel="icon" type="image/png" href="favicon.png"/> <!-- Favicon -->
+
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <meta name="description" content="JamelD">  <!--get more descriptive --> 
+        <meta name="keywords" content="JamelD, Jamel Douglas, Information Technology, Florida State University, FSU">
+        <meta name="author" content="Jamel Douglas">
+    </head>
+    <body>
+        <!-- SPLASH SECTION -->
+        <section id="splash">  
+            <!--Navigation Bar holds Navigation Buttons -->
+            <div id="navbar">
+                <div class="container">  <!-- container keeps everything aligned and centered no matter what the window size -->
+                    <ul  id="menu">
+                        <!-- button class provides button-like appearance and scrolling javascript (see bottom of html code) -->
+                        <li><a href="#splash" class="button">Jamel D</a></li>
+                        <li><a href="#aboutme" class="button">About Me</a></li>
+                        <li><a href="#portfolio" class="button">Portfolio</a></li>
+                        <li><a href="#freelance" class="button">Freelance</a></li>
+                    </ul>
+                </div> <!-- end container -->
+            </div> <!-- end navbar -->
+            <div id="title-page">
+                <div class="container">
+                    <h1>Jamel Douglas</h1>
+                    <!-- <h3>sub text</h3> -->
+                </div>
+            </div>
+        </section>
+
+        <section id="aboutme">
+            <div class="container">
+                <h2><em>About Me</em></h2>
+                <!-- <img class="responsive" src="images/jameld.png" alt="Jamel Douglas Photo"> -->
+                <p>
+                    College Junior (3rd-Year) studying Information Technology at Florida State University.
+                </p>
+                <p><a href="https://linkedin.com/in/jameldouglas">Linkedin</a></p>
+                
+                <h3><em>Education</em></h3>
+                <table style="width:100%">
+                    <tr>
+                        <td>
+                            Florida State University, <em>Tallahasse, FL</em>
+                            <ul>
+                                <li><strong>Bachelor of Sciense in Information Technology</strong></li>
+                                <li>Association for Computing Machinery (ACM)</li>    
+                            </ul>
+                        </td>
+                        <td style="text-align:right;vertical-align:top;">2018 - 2021 (Expected)</td>
+                    </tr>
+                    <tr>
+                        <td>
+                            Atlantic Community High School, <em>Delray Beach, FL</em>
+                            <ul>
+                                <li><strong>High School Diploma</strong></li>
+                                <li>International Baccalaureate Diploma Programme</li>
+                                <li>International Baccalaureate Middle Years Programme Certificate</li>
+                                <li>Southeastern Consortium for Minorities in Engineering (SECME), Treasurer</li>
+                            </ul>
+                        </td>
+                        <td style="text-align:right;vertical-align:top;">2014 - 2018</td>
+                    </tr>
+                </table>
+
+                <h3><em>Certifications</em></h3>
+                <ul>
+                    <li>
+                        Mircrosoft Office Specialist - Mircrosoft Word 2016
+                        <ul>
+                            <li>Certiport</li>
+                            <li>Issued Jan 2017</li>
+                        </ul>
+                    </li>
+                </ul>
+                
+                <h3><em>Skills</em></h3>
+                <ul>
+                    <li>
+                        Database
+                        <ul>
+                            <li>MySQL</li>
+                        </ul>    
+                    </li>
+                    <li>
+                        Web Design
+                        <ul>
+                            <li>HTML5</li>
+                            <li>CSS</li>
+                        </ul>
+                    </li>
+                    <li>
+                        Programming Languages
+                        <ul>
+                            <li>C++</li>
+                        </ul>
+                    </li>
+                </ul>
+            </div>
+        </section>
+
+        <section id="portfolio">
+            <div class="container">
+               <h2><em>Portfolio</em></h2>
+               <ul id="portfolio_list">
+                    <li><h3><a href="https://github.com/JamelD">Github</a></h3></li>
+                    <!-- <li><h3><a href="https://bookstack.jameld.com">Home Lab + Network</a></h3></li> -->
+                    <li><h3><a href="https://cgs2821.jameld.com" target="_blank">CGS2821: Intro to Web Design (Fall 2019)</a></h3></li>
+                    <li><h3><a href="https://fuel.jameld.com" target="_blank">Fuel Cost and Consumption Manager (2016-2017)</a></h3></li>
+                    <li><h3><a href="https://custompc.jameld.com">Custom Gaming PC (2015)</a></h3></li>
+               </ul>
+            </div>            
+        </section>
+
+        <section id="freelance">
+            <div class="container">
+                <h2><em>Freelance Work</em></h2>
+                <ul id="freelance_list">
+                    <!-- <li>TBA</li> -->
+                    <li><h3><a href="https://blog.jameld.com">Blog</a></h3></li>                  
+                    <!-- <li><a href="https://repair.jameld.com">Computer Repair and Maintenance</a></li> -->
+                    <!-- <li><a href="https://photo.jameld.com">Photography</a></li> -->
+                </ul>
+            </div>
+        </section>
+
+        <section id="footer">
+            <div class="container">
+                <div id="credits">
+                    <h3>© 2019-2020 ~ <a href="mailto:jameld100@outlook.com">Jamel Douglas</a></h3>
+                </div>
+            </div>
+        </section> <!-- end FOOTER section -->
+
+        <!-- JAVASCRIPT CODE -->
+        <!--jquery required for scrolling effect -->
+        <script src="js/jquery.js"></script>
+        <!-- Scrolling navigation script by Geo Miller glmiller@pic.fsu.edu -->  
+        <script>
+            jQuery(document).ready(function () {
+                jQuery('.button').click(function() {
+                    targetName = jQuery(this).attr('href');
+                    targetLocation = jQuery(targetName).offset().top;
+                    jQuery('html, body').animate({scrollTop:targetLocation}, 'slow');
+                    return false;
+                });
+            });
+        </script>
+    </body>
+</html>
