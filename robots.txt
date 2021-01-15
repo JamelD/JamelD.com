@@ -1,5 +1,5 @@
-User-agent: *
-Allow: /*.html$
-
-
+User-agent: *
+Allow: /*.html$
+
+
 Sitemap: https://jameld.com/sitemap.xml
