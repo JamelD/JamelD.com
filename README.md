@@ -1,8 +1,8 @@
 # JamelD.com
 
-This repository is the source for my website JamelD.com
+This repository contains the source for my website JamelD.com
+The purpose of this site is to showcase myself and what I am about.
 
-Update to Git on 1/15/2020
 
 Template by [HTML5 Up](https://html5up.net/)
 
