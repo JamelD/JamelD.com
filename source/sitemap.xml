@@ -13,4 +13,10 @@
         <changefreq>monthly</changefreq>
 		<priority>0.5</priority>
 	</url>
+	<url>
+		<loc>https://jameld.com/JamelD_Resume.pdf</loc>
+		<lastmod>2020-10-14T00:38:31+01:00</lastmod>
+        <changefreq>monthly</changefreq>
+		<priority>0.5</priority>
+	</url>
 </urlset>
