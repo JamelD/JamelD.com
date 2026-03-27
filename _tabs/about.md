@@ -51,6 +51,8 @@ OffSec Encryption and Cryptography Skill Path | Sep 202
 
 ### Information Security Analyst
 
+  May 2024 - Present
+
 Responsible for planning, implementing, and maintaining security measures to protect an organization's computer networks, systems, and digital files from unauthorized access, modification, or destruction. Conducts internal and external security audits, performs vulnerability testing and risk analyses, and monitors network intrusion detection systems to identify and respond to potential threats. Analyzes security breaches to determine root causes and installs appropriate tools and countermeasures to reduce organizational risk. Defines and upholds corporate security policies, coordinates with outside vendors, and trains employees on security awareness and procedures.
 
 Skills:
@@ -59,6 +61,8 @@ Skills:
 - Incidence Response
 
 ### Support Services Specialist
+
+  Aug 2022 - May 2024
 
 Responsible for global user and technical support 24 hours a day through telephone, intranet, and e-mail. Monitor and prioritize requests to ensure a timely, accurate resolution. Implement and support end-users of computer desktop, laptop, hardware, software and peripherals at the corporate facility. In addition, provide global end-user support on centralized software applications. Performs data center operations duties on a daily basis according to schedule and keep detailed log of activities.
 
@@ -83,6 +87,13 @@ The School District of Palm Beach County | Senior Afterschool Counselor in Train
 
 ## Education
 
-> Florida State University
-> B.S. - Information Technology
-> 2018 - 2021
+<!-- markdownlint-capture -->
+<!-- markdownlint-disable -->
+**Florida State University**
+<!-- markdownlint-restore -->
+
+- Bachelor of Science - *Information Technology*
+  - Focus Areas:
+    - Network Administration
+    - Information Security
+    - Database Administration
