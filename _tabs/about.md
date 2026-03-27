@@ -14,9 +14,38 @@ I am an IT Support Specialist and graduate of Florida State University with a de
 
 I am passionate about technology, I have been messing around with hardware and software since I received a computer at 5 years old.
 
+---
+
 ## Technical Skills
 
+---
+
 ## Certifications
+
+### Overall Certifications
+
+<!-- Certificate | Date -->
+
+--- | ---
+CompTIA Security Analytics Professional (CSAP) | Dec 2025 - Dec 2028
+CompTIA Cybersecurity Analyst (CySA+) | Dec 2025 - Dec 2028
+OffSec Threat Hunting Essentials | Sep 2024
+CompTIA Security+ | Aug 2024 - Dec 2028
+CompTIA Network+ | Apr 2023 - Dec 2028
+
+### Skills-Oriented Certificates
+
+<!-- Certificate | Date -->
+
+--- | ---
+OffSec User Account Management Skill Path | March 2026
+OffSec Scripting and Automation Skill Path | Jan 2026
+OffSec Automation and Scripting Skill Path | Jan 2026
+OffSec Enumeration Skill Path | Sep 2025
+OffSec Vulnerability Detection Skill Path | Sep 2025
+OffSec Encryption and Cryptography Skill Path | Sep 202
+
+---
 
 ## Experience
 
@@ -29,8 +58,6 @@ Skills:
 - Threat Hunting
 - Incidence Response
 
----
-
 ### Support Services Specialist
 
 Responsible for global user and technical support 24 hours a day through telephone, intranet, and e-mail. Monitor and prioritize requests to ensure a timely, accurate resolution. Implement and support end-users of computer desktop, laptop, hardware, software and peripherals at the corporate facility. In addition, provide global end-user support on centralized software applications. Performs data center operations duties on a daily basis according to schedule and keep detailed log of activities.
@@ -42,24 +69,20 @@ Skills:
 - Time Management
 - Communication
 
----
-
 ### Other Previous Experiences
 
 Employer | Job Title | Dates
 --- | --- | ---
-The Home Depot | Deliveries Department Lead | ? - Aug 2022
-The Home Depot | Service Department Lead | ? - ?
-The Home Depot | Sales Associate | ? - ?
-The Home Depot | Lot Associate | Oct 2017 - ?
+The Home Depot | Deliveries Department Lead | Apr 2022 - Aug 2022
+The Home Depot | Service Department Lead | Feb 2022 - Apr 2022
+The Home Depot | Sales Associate - Lumber & Building Materials | Jun 2021 - Feb 2022
+The Home Depot | Lot Associate | Oct 2017 - Jun 2021
 The School District of Palm Beach County | Senior Afterschool Counselor in Training | Aug 2015 - June 2018
 
-- **The Home Depot** \| Oct 2017 - Aug 2022
-  - Deliveries Department Lead
-  - Service Department Lead
-  - Sales Associate
-  - Lot Associate
-- **The School District of Palm Beach County** \| Aug 2015 - June 2018
-  - Senior Afterschool Counselor in Training
+---
 
 ## Education
+
+> Florida State University
+> B.S. - Information Technology
+> 2018 - 2021
