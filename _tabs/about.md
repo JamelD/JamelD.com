@@ -51,11 +51,6 @@ OffSec Encryption and Cryptography Skill Path | Sep 202
 
 Responsible for planning, implementing, and maintaining security measures to protect an organization's computer networks, systems, and digital files from unauthorized access, modification, or destruction. Conducts internal and external security audits, performs vulnerability testing and risk analyses, and monitors network intrusion detection systems to identify and respond to potential threats. Analyzes security breaches to determine root causes and installs appropriate tools and countermeasures to reduce organizational risk. Defines and upholds corporate security policies, coordinates with outside vendors, and trains employees on security awareness and procedures.
 
-Skills:
-
-- Threat Hunting
-- Incidence Response
-
 ### Support Services Specialist
 
   Aug 2022 - May 2024
