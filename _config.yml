@@ -21,10 +21,10 @@ timezone: America/New_York
 
 title: Jamel Douglas # the main title
 
-tagline: JamelD.com # it will display as the subtitle
+tagline: Information Security Analyst # it will display as the subtitle
 
 description: >- # used by seo meta and the atom feed
-  A minimal, responsive and feature-rich Jekyll theme for technical writing.
+  Personal website of an Information Security Analyst featuring a professional portfolio, resume, and blog. Posts cover homelab projects, cybersecurity, certifications, and industry experiences. Follow along for hands-on technical write-ups, career updates, and insights from the world of information security.
 
 # Fill in the protocol & hostname for your site.
 # E.g. 'https://username.github.io', note that it does not end with a '/'.
